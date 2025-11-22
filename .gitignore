@@ -1,0 +1,18 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+hello
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
